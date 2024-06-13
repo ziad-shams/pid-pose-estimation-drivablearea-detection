@@ -21,13 +21,15 @@ The PID system is built using the following components and libraries:
 
 The following repositories provided foundational code that was adapted for this project:
 
-The code for YOLOP was adapted from the GitHub repository: [https://github.com/hustvl/YOLOP](YOLOP)
 
-The code for ST-DenseNet was adapted from the GitHub repository: [https://github.com/GalDude33/DenseNetFCN-3D](DenseNetFCN-3D)
+The code for YOLOP was adapted from the GitHub repository: [https://github.com/hustvl/YOLOP](https://github.com/hustvl/YOLOP)
 
-The code for rolling data was adapted from the GitHub repository: [https://github.com/mjpramirez/Volvo-DataX](Volvo-DataX)
+The code for ST-DenseNet was adapted from the GitHub repository: [https://github.com/GalDude33/DenseNetFCN-3D](https://github.com/GalDude33/DenseNetFCN-3D)
 
-Special thanks to the authors of these repositories for their contributions to the open-source community.
+The code for rolling data was adapted from the GitHub repository: [https://github.com/mjpramirez/Volvo-DataX](https://github.com/mjpramirez/Volvo-DataX)
+
+
+Special thanks to the authors of these repositories for their contributions.
 
 
 
